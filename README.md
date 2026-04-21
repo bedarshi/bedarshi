@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Building+Cool+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Building+Cool+Projects+🚀" />
 </p>
 
 ---
@@ -65,18 +65,10 @@
 
 ---
 
-## ✨ Random Dev Quote
+## 🟩 GitHub Contributions
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Optional Setup)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/bedarshi/bedarshi/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/409ba5/bedarshi" />
 </p>
 
 ---
@@ -84,7 +76,7 @@
 ## ⚡ Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bedarshi&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=bedarshi&label=Profile%20views&color=00ff00&style=flat" />
 </p>
 
 ---
