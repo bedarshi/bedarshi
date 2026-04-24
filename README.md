@@ -15,6 +15,7 @@
 - 📫 Reach me at **bedarshi9@gmail.com**
 - 🌐 Portfolio:  
 👉 https://portfolio-website-smoky-kappa-85.vercel.app/
+ Live Demo: https://infotact-project1-2-0pl0.onrender.com
 
 ---
 
