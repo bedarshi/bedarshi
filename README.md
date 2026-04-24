@@ -27,8 +27,8 @@
 <a href="https://linkedin.com/in/bedarshi-baruah-4595192a8">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://leetcode.com/baruahbed">
-<img src="https://skillicons.dev/icons?i=leetcode" />
+<a href="https://leetcode.com/baruahbed/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
