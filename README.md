@@ -41,20 +41,14 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+
+<!-- <p align="center">
+## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=bedarshi&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedarshi&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedarshi&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
