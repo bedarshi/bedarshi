@@ -60,13 +60,14 @@
 
 ---
 
-## 🟩 GitHub Contributions
 
-<p align="center">
+
+<!-- <p align="center">
+   ## 🟩 GitHub Contributions
   <img src="https://ghchart.rshah.org/409ba5/bedarshi" />
 </p>
 
----
+--- -->
 
 ## ⚡ Profile Views
 
